@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59de60d0-7308-43f3-aee3-0c4a668d68b8" name="Changes" comment="controller ui,스타일링">
-      <change afterPath="$PROJECT_DIR$/virtualKeyboard/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/highlightedFiles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/playground.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/reset.css" afterDir="false" />
-    </list>
+    <list default="true" id="59de60d0-7308-43f3-aee3-0c4a668d68b8" name="Changes" comment="controller ui,스타일링" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +81,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,7 +95,7 @@
       <updated>1705846223621</updated>
       <workItem from="1705846224757" duration="856000" />
       <workItem from="1705910111277" duration="553000" />
-      <workItem from="1705921557658" duration="11702000" />
+      <workItem from="1705921557658" duration="12012000" />
     </task>
     <task id="LOCAL-00001" summary="feature:reset.css 추가">
       <option name="closed" value="true" />
