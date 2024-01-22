@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59de60d0-7308-43f3-aee3-0c4a668d68b8" name="Changes" comment="controller ui,스타일링">
+      <change afterPath="$PROJECT_DIR$/virtualKeyboard/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/highlightedFiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/playground.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtualKeyboard/virtualKeyboard/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/virtualKeyboard/reset.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/virtualKeyboard" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;201steve&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1705934736" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cb5aa6f7-99dd-4aeb-8500-ac94ba32a90a" />
+        <option name="url" value="https://github.com/201steve/playground.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bGfEMeMTcjmjV4Nzi17hu0Rkok" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59de60d0-7308-43f3-aee3-0c4a668d68b8" name="Changes" comment="" />
+      <created>1705846223621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705846223621</updated>
+      <workItem from="1705846224757" duration="856000" />
+      <workItem from="1705910111277" duration="553000" />
+      <workItem from="1705921557658" duration="11702000" />
+    </task>
+    <task id="LOCAL-00001" summary="feature:reset.css 추가">
+      <option name="closed" value="true" />
+      <created>1705933929715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705933929715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="controller ui,스타일링">
+      <option name="closed" value="true" />
+      <created>1705933976399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705933976399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature:reset.css 추가" />
+    <MESSAGE value="controller ui,스타일링" />
+    <option name="LAST_COMMIT_MESSAGE" value="controller ui,스타일링" />
+  </component>
+</project>
