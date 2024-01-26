@@ -1,5 +1,6 @@
 class Keyboard {
     #switchEl;
+    #fontSelectEl;
     constructor() {
         this.#assignElement()
         this.#addEvent()
@@ -7,12 +8,16 @@ class Keyboard {
     }
     #assignElement(){
         this.#switchEl = document.getElementById("switch")
+        this.#fontSelectEl = document.getElementById("font")
     }
 
     #addEvent(){
         this.#switchEl.addEventListener("change",(event)=>{
             document.documentElement.setAttribute("theme",event.target.checked ? "dark-mode":"")
 
+        })
+        this.#fontSelectEl.addEventListener("change",(event)=>{
+            document.body.style.fontFamily = event.target.value
         })
     }
 }
