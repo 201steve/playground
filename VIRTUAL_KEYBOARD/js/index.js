@@ -1,24 +1,27 @@
 class Keyboard {
     #switchEl;
     #fontSelectEl;
+    #containerEl
     constructor() {
         this.#assignElement()
         this.#addEvent()
 
     }
     #assignElement(){
-        this.#switchEl = document.getElementById("switch")
-        this.#fontSelectEl = document.getElementById("font")
+        this.#containerEl = document.getElementById("container")
+        this.#switchEl = this.#containerEl.querySelector("#switch")
+        this.#fontSelectEl = this.#containerEl.querySelector("#font")
     }
 
     #addEvent(){
-        this.#switchEl.addEventListener("change",(event)=>{
-            document.documentElement.setAttribute("theme",event.target.checked ? "dark-mode":"")
-
-        })
-        this.#fontSelectEl.addEventListener("change",(event)=>{
-            document.body.style.fontFamily = event.target.value
-        })
+        this.#switchEl.addEventListener("change",this.#onChangeTheme)
+        this.#fontSelectEl.addEventListener("change",this.#onChangeFont)
+    }
+    #onChangeTheme(event){
+        document.documentElement.setAttribute("theme",event.target.checked ? "dark-mode":"")
+    }
+    #onChangeFont(event){
+        document.body.style.fontFamily = event.target.value
     }
 }
 new Keyboard()
