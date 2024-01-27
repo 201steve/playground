@@ -25,10 +25,7 @@ class Keyboard {
         this.#fontSelectEl.addEventListener("change",this.#onChangeFont)
         document.addEventListener("keydown",this.#onKeyDown.bind(this))
         document.addEventListener("keyup",this.#onKeyUp.bind(this))
-        this.#inputEl.addEventListener("input",(event)=>{
-            this.#inputEl.value = this.#inputEl.value.replace(/[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/,"")
-            }
-        )
+        this.#inputEl.addEventListener("input",this.#onInput)
     }
     #onChangeTheme(event){
         document.documentElement.setAttribute("theme",event.target.checked ? "dark-mode":"")
@@ -46,6 +43,9 @@ class Keyboard {
         this.#keyboardEl.querySelector(`[data-code=${event.code}]`)?.classList.remove("active")
     }
 
+    #onInput(event){
+        event.target.value = event.target.value.replace(/[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/,"")
+    }
 
 }
 new Keyboard()
